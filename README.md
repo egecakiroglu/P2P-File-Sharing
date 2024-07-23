@@ -52,3 +52,5 @@ The handle_request function is called to process the request and generate a resp
 The code continues to listen for new connections and process requests in a loop.
 Overall, this code sets up a TCP server that listens for content requests, handles the requests by sending the requested files if available, and logs upload details to a file. It provides a basic uploader functionality to serve requested files over a network.
 
+## Credits
+Thanks for Kağan Civelek and Fazlı Altun for their contribution.
